@@ -1,0 +1,25 @@
+header {
+  background-color: gray;
+}
+
+.info {
+  background: #333742;
+  border:  10px solid yellow;
+  color: white;
+  padding: 20px 20px;
+  text-align: center;
+}
+
+h2 {
+  background-color: rgb(214, 122, 127);
+  font-size: 20px;
+  font-style: italic;
+  color: #191970;
+}
+
+h3 {
+  background-color: #00ff00;
+  font-size: 20px;
+  font-style: oblique;
+  color: #800000;
+}
